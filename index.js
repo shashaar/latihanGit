@@ -4,3 +4,6 @@ console.log("baris kedua");
 
 //selasa
 console.log("baris ketiga");
+
+//rabu
+console.log("baris keempat");
