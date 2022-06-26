@@ -7,3 +7,6 @@ console.log("baris ketiga");
 
 //rabu
 console.log("baris keempat");
+
+//kamis 
+console.log("baris kelima");
