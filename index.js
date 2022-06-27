@@ -10,3 +10,7 @@ console.log("baris keempat");
 
 //kamis 
 console.log("baris kelima");
+
+//jumaat
+console.log("baris keenam");
+console.log("baris ketujuh");
